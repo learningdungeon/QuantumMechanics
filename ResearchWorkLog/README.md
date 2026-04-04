@@ -1,1 +1,1 @@
-Research Homework Log - Quantum Mechanics - Quantum Netork
+Research Homework Log - Quantum Mechanics - Quantum Network
