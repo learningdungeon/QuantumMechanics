@@ -36,4 +36,6 @@ Engineering the "well" requires balancing energy retention vs. power:
 > *"If the station (Hole) is heavy and the train (Electron) is too fast, the passenger (Information) can't board. We narrow the platform (2D Well) to ensure the connection happens."*
 
 ---
+
+Check your understanding: https://gemini.google.com/share/2399fa78ef0c
 *Log generated with technical support from Gemini.*
