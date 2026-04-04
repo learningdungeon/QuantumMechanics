@@ -13,7 +13,7 @@ Today's research focused on the physical layer of quantum networking, specifical
 #### 1. The Effective Mass Mismatch
 In crystalline structures, electrons and holes move differently due to their **Effective Mass** ($m^*$).
 
-* **Electrons (m_e* approx 0.0$):** Fast, agile, and high mobility.
+* **Electrons (m_e* approx 0.0):** Fast, agile, and high mobility.
 * **Holes (m_h* approx 0.4):** Relatively heavy and slow.
 * **Architectural Impact:** This mismatch makes recombination (the meeting of e^- and h^+to emit a photon) a statistical challenge. If they don't meet, no signal is generated.
 
