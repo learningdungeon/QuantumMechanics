@@ -45,3 +45,5 @@ I will be there. Just measure me.
 ### ⚛️ The Time-Independent Schrödinger Equation
 ```text
 [ - (ħ² / 2m) ∇² + V ] Ψ = E Ψ
+
+Credit: Noor Ul Ain Faisal & Gemini
